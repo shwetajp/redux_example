@@ -1,0 +1,8 @@
+1. install redux :npm i redux react-redux
+
+2. create store folder
+   3)create initialstate
+3. create reducer
+4. create store
+5. configure the store
+6. consume store into your app
